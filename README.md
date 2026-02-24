@@ -13,20 +13,12 @@
 ## 👋 About Me
 
 I'm **Aman Kumar**, a Computer Science student and passionate **Full Stack Developer**.
-
-I build complete web applications — from frontend interfaces to backend systems and databases.
-
-I focus on building real-world projects and preparing for software engineering roles.
-
----
-
-## ⚡ What I Do
-
 - Build Full Stack Web Applications  
 - Develop MERN Stack Projects  
 - Create REST APIs and Backend Systems  
 - Work with Databases (MongoDB, MySQL)  
-- Practice Data Structures and Algorithms  
+- Practice Data Structures and Algorithms 
+I focus on building real-world projects and preparing for software engineering roles.
 
 ---
 
@@ -46,16 +38,6 @@ I focus on building real-world projects and preparing for software engineering r
 
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amankr4578&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-## 📫 Connect With Me
-
-<p align="center">
-<a href="https://github.com/Amankr4578">
-<img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
-</a>
 </p>
 
 ---
