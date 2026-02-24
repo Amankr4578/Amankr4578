@@ -1,5 +1,6 @@
+<p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8A2BE2&height=200&section=header&text=Aman%20Kumar&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
-
+</p>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;MERN+Stack+Developer;Building+Real+World+Projects;Future+Software+Engineer" />
 </p>
@@ -17,7 +18,7 @@ I'm **Aman Kumar**, a Computer Science student and passionate **Full Stack Devel
 - Develop MERN Stack Projects  
 - Create REST APIs and Backend Systems  
 - Work with Databases (MongoDB, MySQL)  
-- Practice Data Structures and Algorithms 
+- Practice Data Structures and Algorithms <br>
 I focus on building real-world projects and preparing for software engineering roles.
 
 ---
@@ -41,5 +42,6 @@ I focus on building real-world projects and preparing for software engineering r
 </p>
 
 ---
-
+<p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8A2BE2&height=120&section=footer"/>
+</p>
