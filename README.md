@@ -50,16 +50,6 @@ I focus on building real-world projects and preparing for software engineering r
 
 ---
 
-## 🚀 Top Skills
-
-- Full Stack Web Development  
-- MERN Stack Development  
-- Backend Development  
-- API Development  
-- Problem Solving  
-
----
-
 ## 📫 Connect With Me
 
 <p align="center">
