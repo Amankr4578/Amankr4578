@@ -14,11 +14,13 @@
 ## 👋 About Me
 
 I'm **Aman Kumar**, a Computer Science student and passionate **Full Stack Developer**.
+
 - Build Full Stack Web Applications  
 - Develop MERN Stack Projects  
 - Create REST APIs and Backend Systems  
 - Work with Databases (MongoDB, MySQL)  
 - Practice Data Structures and Algorithms <br>
+
 I focus on building real-world projects and preparing for software engineering roles.
 
 ---
